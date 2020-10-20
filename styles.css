@@ -275,3 +275,15 @@ footer {
 #pub{
   position: relative;
 }
+
+article{
+  margin-left: 12%;
+  margin-right: 12%;
+  padding: 10px;
+  color: black;
+}
+
+article img {
+    margin: 10px auto 20px;
+    display: block;
+}
